@@ -12,9 +12,15 @@ namespace SimpleJsonApi.Controllers
         [HttpGet("GetJson")]
         public async Task<IActionResult> GetJson()
         {
-            var filePath = Path.Combine(Directory.GetCurrentDirectory(), "Data", "sample.json");
-            var jsonData = await System.IO.File.ReadAllTextAsync(filePath);
+            var people = new[]
+            {
+                new { Name = "Alice", Age = 30 },
+                new { Name = "Bob", Age = 25 },
+                new { Name = "Charlie", Age = 35 }
+            };  
+            var jsonData = JsonSerializer.Serialize(people);
             return Content(jsonData, "application/json");
+            
         }
 
         [HttpGet("GetPerson")]
