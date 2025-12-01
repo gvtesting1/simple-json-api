@@ -305,3 +305,4 @@ C:\Users\gvtes\Desktop\TP2025\simple-json-api\tests\SimpleJsonApi.Tests\obj\Debu
 C:\Users\gvtes\Desktop\TP2025\simple-json-api\tests\SimpleJsonApi.Tests\obj\Debug\net6.0\SimpleJsonApi.Tests.pdb
 C:\Users\gvtes\Desktop\TP2025\simple-json-api\tests\SimpleJsonApi.Tests\obj\Debug\net6.0\SimpleJsonApi.Tests.genruntimeconfig.cache
 C:\Users\gvtes\Desktop\TP2025\simple-json-api\tests\SimpleJsonApi.Tests\obj\Debug\net6.0\ref\SimpleJsonApi.Tests.dll
+C:\Users\gvtes\Desktop\TP2025\simple-json-api\tests\SimpleJsonApi.Tests\obj\Debug\net6.0\SimpleJsonApi.Tests.sourcelink.json

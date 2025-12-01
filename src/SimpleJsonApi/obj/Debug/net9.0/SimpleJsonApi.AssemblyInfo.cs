@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleJsonApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9072c16cbecf3a8dbcf821ff5c1a810d7744042c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleJsonApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleJsonApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

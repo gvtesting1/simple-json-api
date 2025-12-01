@@ -30,3 +30,4 @@ C:\Users\gvtes\Desktop\TP2025\simple-json-api\src\SimpleJsonApi\obj\Debug\net9.0
 C:\Users\gvtes\Desktop\TP2025\simple-json-api\src\SimpleJsonApi\obj\Debug\net9.0\SimpleJsonApi.pdb
 C:\Users\gvtes\Desktop\TP2025\simple-json-api\src\SimpleJsonApi\obj\Debug\net9.0\SimpleJsonApi.genruntimeconfig.cache
 C:\Users\gvtes\Desktop\TP2025\simple-json-api\src\SimpleJsonApi\obj\Debug\net9.0\ref\SimpleJsonApi.dll
+C:\Users\gvtes\Desktop\TP2025\simple-json-api\src\SimpleJsonApi\obj\Debug\net9.0\SimpleJsonApi.sourcelink.json
