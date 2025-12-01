@@ -15,6 +15,7 @@ jobs:
     displayName: 'Run a one-line script'
 
 - job: BuildAndDeploy
+  dependsOn: HelloWorld
   steps:
   - script: |
       echo Add other tasks to build, test, and deploy your project.
