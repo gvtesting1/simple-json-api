@@ -14,8 +14,8 @@ namespace SimpleJsonApi.Controllers
         {
             var people = new[]
             {
-                new { Name = "Alice", Age = 30 },
-                new { Name = "Bob", Age = 25 },
+                new { Name = "Sherri", Age = 30 },
+                new { Name = "Jestina", Age = 25 },
                 new { Name = "Charlie", Age = 35 }
             };  
             var jsonData = JsonSerializer.Serialize(people);
@@ -29,9 +29,9 @@ namespace SimpleJsonApi.Controllers
             //create an object to hold person information
             var person = new
             {
-                Name = "Gabriel Valadez",
+                Name = "Gabriel Valadez Moncayo",
                 Age = 25,
-                Email = "gabriel.valadez@gmail.com"
+                Email = "gabriel.valadez@ust.com"
             };
             var jsonData = JsonSerializer.Serialize(person);
 
